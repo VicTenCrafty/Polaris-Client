@@ -1,3 +1,7 @@
+#gui.py
+#Written by: Vic
+#Commenting to not mess up my code
+
 import customtkinter as ctk
 import tkinter as tk
 from PIL import Image, ImageDraw, ImageTk
